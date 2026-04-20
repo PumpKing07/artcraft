@@ -15,8 +15,7 @@ export const blogPosts = [
     excerpt: "После прохождения курса акварельной живописи, Анна открыла свою студию и теперь обучает других",
     content:
       "Анна начала свой путь в акварельной живописи всего год назад. После прохождения курса она не только освоила технику, но и нашла собственный стиль.",
-    image:
-      "https://images.unsplash.com/photo-1764096535068-0e9f652e03f6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+    image: "/images/blog/01.jpg",
     author: "Мария Петрова",
     authorRole: "Редактор блога",
     date: "5 апреля 2026",
@@ -29,8 +28,7 @@ export const blogPosts = [
     title: "10 советов для начинающих художников",
     excerpt: "Практические рекомендации, которые помогут вам быстрее развить навыки рисования",
     content: "Каждый художник когда-то был новичком. Вот 10 рекомендаций, которые ускорят прогресс.",
-    image:
-      "https://images.unsplash.com/photo-1628586431263-44040b966252?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+    image: "/images/blog/02.jpg",
     author: "Дмитрий Соколов",
     authorRole: "Преподаватель рисунка",
     date: "3 апреля 2026",
@@ -43,8 +41,7 @@ export const blogPosts = [
     title: "Как выбрать идеальную палитру для акварели",
     excerpt: "Разбираем типы красок, бренды и советы по выбору первого набора",
     content: "Выбор акварельной палитры — важный шаг для любого художника.",
-    image:
-      "https://images.unsplash.com/photo-1677001459109-fe850d6c48bf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+    image: "/images/blog/03.jpg",
     author: "Елена Иванова",
     authorRole: "Художник-акварелист",
     date: "1 апреля 2026",

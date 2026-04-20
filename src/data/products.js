@@ -3,8 +3,7 @@ export const products = [
     id: "p1",
     name: "Набор профессиональных кистей для акварели",
     description: "Набор из 12 кистей разных размеров из натурального ворса белки",
-    image:
-      "https://images.unsplash.com/photo-1740251536721-544b0fde73b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+    image: "/images/products/01.jpg",
     price: 2490,
     oldPrice: 3200,
     rating: 4.9,
@@ -16,8 +15,7 @@ export const products = [
     id: "p2",
     name: "Акварельные краски 24 цвета",
     description: "Профессиональная акварель в кюветах, яркие пигменты",
-    image:
-      "https://images.unsplash.com/photo-1761145275111-e62cbdba6f57?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+    image: "/images/products/02.jpg",
     price: 3890,
     rating: 4.8,
     reviewCount: 203,
@@ -29,8 +27,7 @@ export const products = [
     id: "p3",
     name: "Холст на подрамнике 50×70 см",
     description: "Грунтованный холст из 100% хлопка, готов к использованию",
-    image:
-      "https://images.unsplash.com/photo-1757546049629-2391be154fb7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+    image: "/images/products/03.jpg",
     price: 890,
     rating: 4.7,
     reviewCount: 89,
@@ -42,8 +39,7 @@ export const products = [
     id: "p4",
     name: "Акриловые краски набор 36 цветов",
     description: "Высококачественные акриловые краски в тюбиках по 22 мл",
-    image:
-      "https://images.unsplash.com/photo-1690288958542-c9c8bade3153?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+    image: "/images/products/04.jpg",
     price: 4590,
     oldPrice: 5490,
     rating: 4.9,
@@ -55,8 +51,7 @@ export const products = [
     id: "p5",
     name: "Скетчбук А4 с карандашами",
     description: "Скетчбук 120 листов + набор графитовых карандашей 12 шт",
-    image:
-      "https://images.unsplash.com/photo-1742130847739-f7728ae50176?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+    image: "/images/products/05.jpg",
     price: 1690,
     rating: 4.6,
     reviewCount: 178,
@@ -68,8 +63,7 @@ export const products = [
     id: "p6",
     name: "Полимерная глина набор 24 цвета",
     description: "Мягкая полимерная глина для лепки украшений и фигурок",
-    image:
-      "https://images.unsplash.com/photo-1758522277384-cd1af73f271f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+    image: "/images/products/06.jpg",
     price: 2890,
     rating: 4.8,
     reviewCount: 145,
@@ -81,8 +75,7 @@ export const products = [
     id: "p7",
     name: "Деревянный настольный мольберт",
     description: "Компактный мольберт из бука для работы за столом",
-    image:
-      "https://images.unsplash.com/photo-1764122755835-b3ba3cc6c82a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+    image: "/images/products/07.jpg",
     price: 3490,
     rating: 4.7,
     reviewCount: 67,
@@ -94,8 +87,7 @@ export const products = [
     id: "p8",
     name: "Набор мастихинов 5 шт",
     description: "Профессиональные мастихины разных форм из нержавеющей стали",
-    image:
-      "https://images.unsplash.com/photo-1677064730930-1f1c4ad06276?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+    image: "/images/products/08.jpg",
     price: 1290,
     rating: 4.6,
     reviewCount: 94,
@@ -107,8 +99,7 @@ export const products = [
     id: "p9",
     name: "Каллиграфический набор премиум",
     description: "Перьевые ручки, чернила и бумага для каллиграфии",
-    image:
-      "https://images.unsplash.com/photo-1605641987825-c1664626d79f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+    image: "/images/products/09.jpg",
     price: 5690,
     oldPrice: 6990,
     rating: 4.9,
@@ -120,8 +111,7 @@ export const products = [
     id: "p10",
     name: "Спиртовые маркеры 120 цветов",
     description: "Профессиональные маркеры для скетчинга и иллюстрации",
-    image:
-      "https://images.unsplash.com/photo-1510936994138-07e06c7c5add?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+    image: "/images/products/10.jpg",
     price: 8990,
     rating: 4.9,
     reviewCount: 245,
@@ -133,8 +123,7 @@ export const products = [
     id: "p11",
     name: "Набор инструментов для керамики",
     description: "14 инструментов для работы с глиной и керамикой",
-    image:
-      "https://images.unsplash.com/photo-1753164725767-0b3da6f50a9f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+    image: "/images/products/11.jpg",
     price: 1890,
     rating: 4.7,
     reviewCount: 103,
@@ -146,8 +135,7 @@ export const products = [
     id: "p12",
     name: "Органайзер для художественных материалов",
     description: "Деревянный органайзер с отделениями для кистей и красок",
-    image:
-      "https://images.unsplash.com/photo-1759910546841-526487211a19?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+    image: "/images/products/12.jpg",
     price: 2690,
     rating: 4.8,
     reviewCount: 87,

@@ -113,14 +113,14 @@ export function HomePage() {
               <div className="grid grid-cols-2 gap-4">
                 <div className="space-y-4">
                   <img
-                    src="https://images.unsplash.com/photo-1749746766518-7d52a30c87cb?w=400"
+                    src="/images/courses/01.jpg"
                     alt="Творчество"
                     className="h-64 w-full rounded-3xl object-cover shadow-2xl"
                     width={400}
                     height={256}
                   />
                   <img
-                    src="https://images.unsplash.com/photo-1657584905470-ac4ef76ee2b4?w=400"
+                    src="/images/courses/02.jpg"
                     alt="Digital art"
                     className="h-48 w-full rounded-3xl object-cover shadow-2xl"
                     width={400}
@@ -129,14 +129,14 @@ export function HomePage() {
                 </div>
                 <div className="mt-12 space-y-4">
                   <img
-                    src="https://images.unsplash.com/photo-1760764541302-e3955fbc6b2b?w=400"
+                    src="/images/courses/07.jpg"
                     alt="Керамика"
                     className="h-48 w-full rounded-3xl object-cover shadow-2xl"
                     width={400}
                     height={192}
                   />
                   <img
-                    src="https://images.unsplash.com/photo-1705254613735-1abb457f8a60?w=400"
+                    src="/images/courses/08.jpg"
                     alt="Живопись"
                     className="h-64 w-full rounded-3xl object-cover shadow-2xl"
                     width={400}

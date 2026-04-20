@@ -31,7 +31,7 @@ export function AboutPage() {
             </p>
           </div>
           <img
-            src="https://images.unsplash.com/photo-1761818645943-a3689c34ca03?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080"
+            src="/images/about/studio.jpg"
             alt="Наша студия"
             className="h-96 w-full rounded-3xl object-cover shadow-2xl"
           />

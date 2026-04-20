@@ -3,8 +3,7 @@ export const masterclasses = [
     id: "mc1",
     title: "Акварельный портрет: техника «по-сырому»",
     instructor: "Анна Соколова",
-    image:
-      "https://images.unsplash.com/photo-1749746766518-7d52a30c87cb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+    image: "/images/courses/01.jpg",
     date: "2026-04-15",
     time: "18:00",
     duration: "3 часа",
@@ -21,8 +20,7 @@ export const masterclasses = [
     id: "mc2",
     title: "Digital-иллюстрация в Procreate",
     instructor: "Дмитрий Волков",
-    image:
-      "https://images.unsplash.com/photo-1657584905470-ac4ef76ee2b4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+    image: "/images/courses/02.jpg",
     date: "2026-04-16",
     time: "19:00",
     duration: "2.5 часа",
@@ -39,8 +37,7 @@ export const masterclasses = [
     id: "mc3",
     title: "Керамика: создание авторской чашки",
     instructor: "Виктор Семёнов",
-    image:
-      "https://images.unsplash.com/photo-1760764541302-e3955fbc6b2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+    image: "/images/courses/07.jpg",
     date: "2026-04-17",
     time: "17:00",
     duration: "4 часа",
